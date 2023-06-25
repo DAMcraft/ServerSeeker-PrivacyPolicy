@@ -20,4 +20,4 @@ As a user of ServerSeeker, you have the right to access, modify, or delete the p
 We reserve the right to revise or update this privacy policy as necessary to comply with applicable laws and regulations or to reflect any changes in our data processing practices. It is advised to review this policy periodically for any amendments. The revised policy will be effective upon posting on this page.
 
 ## Contact Information
-For any inquiries, concerns, or requests regarding this privacy policy or the handling of your data, please contact us at contact@damcraft.de . Our dedicated team will address your concerns in a timely manner.
+For any inquiries, concerns, or requests regarding this privacy policy or the handling of your data, please contact us at contact@serverseeker.net. Our team will address your concerns in a timely manner.
